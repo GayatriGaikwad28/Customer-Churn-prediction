@@ -1,6 +1,6 @@
-# 📌 Customer Churn Prediction using ANN
+## Customer Churn Prediction using ANN
 
-## 📖 Project Overview
+## Project Overview
 
 Customer churn is a major challenge for subscription-based businesses, where retaining existing customers is often more cost-effective than acquiring new ones.
 
@@ -8,7 +8,7 @@ In this project, I built an **Artificial Neural Network (ANN)** model to predict
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 * Understand factors influencing customer churn.
 * Build and train an ANN model to predict churn probability.
@@ -17,7 +17,7 @@ In this project, I built an **Artificial Neural Network (ANN)** model to predict
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * **Source**: [Telco Customer Churn Dataset – Kaggle]
 * **Lines**: 3192
@@ -26,7 +26,7 @@ In this project, I built an **Artificial Neural Network (ANN)** model to predict
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * **Python**: Pandas, NumPy, Matplotlib, Seaborn
 * **Deep Learning**: TensorFlow / Keras (ANN Model)
@@ -36,7 +36,7 @@ In this project, I built an **Artificial Neural Network (ANN)** model to predict
 
 ---
 
-## 🔍 Methodology
+##  Methodology
 
 1. **Data Preprocessing**
 
@@ -62,7 +62,7 @@ In this project, I built an **Artificial Neural Network (ANN)** model to predict
 
 ---
 
-## 📈 Key Insights
+##  Key Insights
 
 * **Month-to-month contracts** have the highest churn risk (\~45%).
 * Customers with **electronic check payment method** are more likely to churn.
@@ -71,7 +71,7 @@ In this project, I built an **Artificial Neural Network (ANN)** model to predict
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Customer-Churn-ANN/
@@ -85,4 +85,3 @@ Customer-Churn-ANN/
 ```
 
 ---
-
